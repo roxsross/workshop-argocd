@@ -6,7 +6,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: roxsross12/gitops-argocd
-  version: main-0257ab4
+  version: master-0cb07cd
 
 imagePullSecrets: []
 nameOverride: ""
